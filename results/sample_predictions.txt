@@ -1,0 +1,15 @@
+Text: tkt00001
+Predicted Label: phone
+
+Text: tkt00002
+Predicted Label: phone
+
+Text: tkt00003
+Predicted Label: social
+
+Text: tkt00004
+Predicted Label: chat
+
+Text: tkt00005
+Predicted Label: email
+
